@@ -1,1 +1,1 @@
-# Sending-Automatic-Messages-on-Whatsapp-with-Python-
+# Sending Automatic Messages On Whatsapp With Python
