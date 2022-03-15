@@ -1,1 +1,1 @@
-# Sending Automatic Messages On Whatsapp With Python
+# Sending Automatic Messages on Whatsapp with Python
